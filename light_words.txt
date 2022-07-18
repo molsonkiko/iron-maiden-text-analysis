@@ -1,0 +1,17 @@
+Light
+black
+bright
+burn
+dark
+darkness
+fire
+flame
+flash
+glow
+moon
+night
+shadow
+shine
+star
+sun
+white

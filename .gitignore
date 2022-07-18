@@ -1,0 +1,10 @@
+*.pdf
+freecodecamp_spacy
+output
+chap4_out
+.ipynb_checkpoints
+__pycache__
+*.xlsx
+*.gz
+*.spacy
+*.lnk
